@@ -1,0 +1,46 @@
+JS for doctor from hospital
+[
+    "degree",
+    "workingyear",
+    "school",
+    "specialize"
+]
+
+JS for doctor from government
+[
+    "name",
+    "age",
+    "ic",
+    "address",
+    "gender",
+    "birthdate",
+    "race",
+    "phonenumber",
+    "occupation1"
+]
+
+JS for patient
+[
+    "name",
+    "age",
+    "ic",
+    "address",
+    "gender",
+    "birthdate",
+    "race",
+    "phonenumber",
+    "occupation"
+]
+
+JS for patient from insurance company
+[
+    "medicalId",
+    "policyNumber",
+    "effectiveDate",
+    "medicalCard"
+]
+
+Insurance company - Verified Insurance
+Hospital - Career Credential
+GOH - Validated Credential
+
